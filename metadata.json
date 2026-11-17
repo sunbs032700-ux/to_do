@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "할일을 추가, 완료, 삭제할 수 있는 간편하고 직관적인 할일 관리 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
